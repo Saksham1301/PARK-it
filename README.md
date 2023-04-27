@@ -34,7 +34,6 @@ The Smart Parking Management System is licensed under the MIT License. See LICEN
 
 Credits
 
-This project was developed by [Your Name] and [Your Team Members] as part of [Your Project Name]. Special thanks to [Any Additional Contributors or Organizations].
-
+This project was developed by Saksham Sahay and Manas Shetty as part of Park It. S
 
 
