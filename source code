@@ -135,4 +135,3 @@ else:
 
 # Close the connection
 conn.close()
-conn.close()
